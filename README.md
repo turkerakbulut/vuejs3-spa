@@ -1,5 +1,5 @@
 # vuejs3-spa
-
+Vue3 Bootstrap5 Single Page Application Sample
 ## Project setup
 ```
 npm install
